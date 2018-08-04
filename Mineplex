@@ -57,7 +57,7 @@ HighJump Mode Mineplex
 IceSpeed Type NCP
 InventoryCleaner MaxDelay 75
 InventoryCleaner MinDelay 50
-InventoryCleaner InvOpen true
+InventoryCleaner InvOpen false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
 KillAura MaxCPS 16
