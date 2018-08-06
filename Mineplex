@@ -25,10 +25,10 @@ BufferSpeed SpeedLimit true
 BufferSpeed MaxSpeed 2.0
 BufferSpeed Buffer true
 BufferSpeed Stairs true
-BufferSpeed StairsBoost 1.59
+BufferSpeed StairsBoost 1.65
 BufferSpeed StairsMode Old
 BufferSpeed Slabs true
-BufferSpeed SlabsBoost 1.59
+BufferSpeed SlabsBoost 1.65
 BufferSpeed SlabsMode Old
 BufferSpeed Ice true
 BufferSpeed IceBoost 1.16
@@ -39,7 +39,7 @@ BufferSpeed Wall false
 BufferSpeed WallBoost 1.16
 BufferSpeed WallMode New
 BufferSpeed HeadBlock true
-BufferSpeed HeadBlockBoost 1.59
+BufferSpeed HeadBlockBoost 1.65
 BufferSpeed Slime true
 BufferSpeed AirStrafe true
 BufferSpeed NoHurt true
