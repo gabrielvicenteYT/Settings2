@@ -144,7 +144,6 @@ SuperKnockback toggle true
 FastUse toggle true
 HeadRotations toggle true
 InventoryMove toggle true
-KeepContainer toggle true
 AbortBreaking toggle true
 NoJumpDelay toggle true
 AutoPot toggle true
