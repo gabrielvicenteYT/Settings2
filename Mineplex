@@ -15,7 +15,7 @@ AntiBot Ping false
 AntiBot NeedHit false
 AutoArmor MaxDelay 75
 AutoArmor MinDelay 50
-AutoArmor Invfalse
+AutoArmor InvOpen false
 AutoArmor SimulateInventory false
 AutoArmor NoMove false
 ChestStealer MaxDelay 75
