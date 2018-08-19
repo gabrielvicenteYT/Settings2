@@ -31,7 +31,7 @@ BufferSpeed Slabs true
 BufferSpeed SlabsBoost 1.80
 BufferSpeed SlabsMode Old
 BufferSpeed Ice true
-BufferSpeed IceBoost 1.16
+BufferSpeed IceBoost 1.25
 BufferSpeed Snow true
 BufferSpeed SnowBoost 1.5
 BufferSpeed SnowPort false
