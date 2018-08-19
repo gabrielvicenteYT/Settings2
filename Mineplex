@@ -2,7 +2,7 @@ AntiBot Tab false
 AntiBot TabMode Contains
 AntiBot EntityID true
 AntiBot Color false
-AntiBot LivingTime true
+AntiBot LivingTime false
 AntiBot Ground true
 AntiBot Air false
 AntiBot InvaildGround false
