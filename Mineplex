@@ -125,7 +125,6 @@ Sneak Mode MineSecure
 Speed Type AAC5BHop
 Step Mode NCP
 Step Height 10.0
-Step Delay 0
 Tower Type Packet
 Tower AutoBlock true
 Velocity Mode Reverse2
