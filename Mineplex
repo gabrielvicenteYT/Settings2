@@ -133,6 +133,7 @@ WaterSpeed Speed 1.16
 AutoSoup OpenInv false
 AutoPot OpenInv false
 TNTBlock Fuse 25
+WallClimb Mode CheckerClimb
 #toggles
 targetDead true
 AntiBot toggle true
