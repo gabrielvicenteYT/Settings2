@@ -100,7 +100,7 @@ WaterSpeed Speed 1.16
 TNTBlock Fuse 25
 WallClimb Mode CheckerClimb
 #toggles
-targetDead true
+target Dead true
 AntiBot toggle true
 NoFall toggle true
 Velocity toggle true
