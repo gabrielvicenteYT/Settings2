@@ -96,6 +96,7 @@ Velocity Mode Reverse2
 WaterSpeed Speed 1.16
 TNTBlock Fuse 25
 WallClimb Mode CheckerClimb
+FastBreak BreakDamage 0.65
 #toggles
 target Dead true
 AntiBot toggle true
@@ -121,3 +122,4 @@ NoSlow toggle true
 Reach toggle true
 Strafe toggle true
 TNTBlock toggle true
+FastBreak  toggle true
