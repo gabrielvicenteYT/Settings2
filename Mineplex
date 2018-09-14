@@ -86,7 +86,7 @@ Scaffold KeepRotation false
 Scaffold Zitter false
 Scaffold Timer 1
 Scaffold SpeedModifier 0.19
-Speed Type AAC5BHop
+Speed Type HypixelHop
 Step Mode NCP
 Step Height 10.0
 Step Delay 250
