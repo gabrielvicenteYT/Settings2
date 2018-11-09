@@ -68,11 +68,10 @@ KillAura AutoBlock true
 KillAura FakeSwing false
 LiquidWalk Type NCP
 NoFall Mode SpoofGround
-NoSlow Sword Vanilla
-NoSlow Consume AAC
-NoSlow Bow Vanilla
+NoSlow Sword NCP
+NoSlow Consume NCP
+NoSlow Bow NCP
 NoSlow Soulsand true
-NoSlow CustomReducement 0.6
 Scaffold Type Expand
 Scaffold MaxDelay 0
 Scaffold MinDelay 0
@@ -123,3 +122,4 @@ Reach toggle true
 Strafe toggle true
 TNTBlock toggle true
 FastBreak toggle true
+nopitchlimit toggle false
