@@ -36,7 +36,7 @@ BufferSpeed HeadBlock true
 BufferSpeed HeadBlockBoost 1.80
 BufferSpeed AirStrafe true
 BufferSpeed NoHurt true
-Criticals Type HypixelPacket
+Criticals Mode HypixelPacket
 Criticals Delay 0
 FastBow Mode Vanilla
 FastClimb Bypass Normal
