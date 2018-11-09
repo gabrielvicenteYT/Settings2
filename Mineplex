@@ -41,10 +41,9 @@ Criticals Delay 0
 FastBow Mode Vanilla
 FastClimb Bypass Normal
 FastUse Mode Instant
+Fucker id 92
 Fucker ThroughWalls Around
-Fucker Instant false
-Fucker Surroundings false
-Fucker NoHit false
+Fucker Action Use
 InventoryCleaner MaxDelay 75
 InventoryCleaner MinDelay 50
 InventoryCleaner InvOpen false
