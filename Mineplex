@@ -96,6 +96,8 @@ WaterSpeed Speed 1.16
 TNTBlock Fuse 25
 WallClimb Mode CheckerClimb
 FastBreak BreakDamage 0.65
+AutoSoup Health 15.5
+AutoSoup Delay 2500
 #toggles
 targetDead true
 AntiBot toggle true
