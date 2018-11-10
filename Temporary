@@ -7,6 +7,7 @@ NoSlow Bow AntiAura
 NoSlow Soulsand false
 WaterSpeed Speed 1.05
 FastStairs Mode LAAC
+FastClimb Bypass LAAC
 #toggles
 TNTBlock toggle true
 FastBreak toggle true
@@ -17,3 +18,4 @@ NoHurtCam toggle true
 AbortBreaking toggle true
 WaterSpeed toggle true
 FastStairs toggle true
+FastClimb toggle true
