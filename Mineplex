@@ -97,6 +97,7 @@ WallClimb Mode CheckerClimb
 FastBreak BreakDamage 0.65
 AutoSoup Health 15.5
 AutoSoup Delay 2500
+Reach Reach 4.75
 #toggles
 targetDead true
 AntiBot toggle true
