@@ -38,6 +38,7 @@ Velocity Vertical 1
 Velocity Mode Simple
 Criticals Mode HypixelPacket
 Criticals Delay 0
+Reach Reach 3.25
 #toggles
 TNTBlock toggle true
 FastBreak toggle true
@@ -55,3 +56,4 @@ Velocity toggle true
 NoJumpDelay toggle true
 SuperKnockback toggle true
 Criticals toggle true
+Reach toggle true
