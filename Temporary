@@ -57,3 +57,6 @@ NoJumpDelay toggle true
 SuperKnockback toggle true
 Criticals toggle true
 Reach toggle true
+Projectiles toggle true
+NoHurtCam toggle true
+AntiBlind toggle true
