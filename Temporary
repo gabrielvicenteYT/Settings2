@@ -39,6 +39,7 @@ Velocity Mode Simple
 Criticals Mode HypixelPacket
 Criticals Delay 0
 Reach Reach 3.25
+HitBox Size 0.23
 #toggles
 TNTBlock toggle true
 FastBreak toggle true
@@ -60,3 +61,4 @@ Reach toggle true
 Projectiles toggle true
 NoHurtCam toggle true
 AntiBlind toggle true
+HitBox toggle true
