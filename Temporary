@@ -13,3 +13,4 @@ MultiActions toggle true
 AbortBreaking toggle true
 FastUse toggle true
 NoHurtCam toggle true
+AbortBreaking toggle true
