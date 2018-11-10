@@ -103,7 +103,6 @@ AntiBot toggle true
 NoFall toggle true
 Velocity toggle true
 FastClimb toggle true
-Velocity toggle true
 Criticals toggle true
 SuperKnockback toggle true
 FastUse toggle true
