@@ -5,6 +5,7 @@ NoSlow Sword AntiAura
 NoSlow Consume AntiAura
 NoSlow Bow AntiAura
 NoSlow Soulsand false
+WaterSpeed Speed 1.05
 #toggles
 TNTBlock toggle true
 FastBreak toggle true
@@ -13,3 +14,4 @@ AbortBreaking toggle true
 FastUse toggle true
 NoHurtCam toggle true
 AbortBreaking toggle true
+WaterSpeed toggle true
