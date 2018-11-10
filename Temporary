@@ -5,7 +5,6 @@ NoSlow Sword AntiAura
 NoSlow Consume AntiAura
 NoSlow Bow AntiAura
 NoSlow Soulsand false
-Scaffold Type Expand
 #toggles
 TNTBlock toggle true
 FastBreak toggle true
