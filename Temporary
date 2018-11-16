@@ -62,3 +62,4 @@ Projectiles toggle true
 NoHurtCam toggle true
 AntiBlind toggle true
 HitBox toggle true
+NoSlow toggle true
